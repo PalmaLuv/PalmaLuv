@@ -2,7 +2,7 @@
 ## Hello 👋
 - i'm Palma , the many people know me so
 - i study programming ,and little virology💻
-
+## Glory to Ukraine 🇺🇦
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=PalmaLuv&show_icons=true&bg_color=360,000000,540543,ff008c&hide_border=true&text_color=d9c7d1)
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmaLuv&bg_color=360,ff008c,540543,000000&hide_border=true&langs_count=8)
