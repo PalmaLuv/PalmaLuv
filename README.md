@@ -4,9 +4,7 @@
 - i study programming ,and little virology💻
 
 ---
-![stats](https://github-readme-stats.vercel.app/api?username=PalmaLuv&show_icons=true&hide_border=true&theme=dark)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmaLuv&theme=dark&layout=compire&langs_count=8&hide_border=true)
-
+![](https://www.icegif.com/wp-content/uploads/2022/02/icegif-978.gif)
 ---
 
 ### Lable and tols
