@@ -11,7 +11,9 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite)
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+
 
 ### Folow me
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/palma.luv/)
