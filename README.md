@@ -23,7 +23,7 @@ Glory to Ukraine 🇺🇦
 
 ### Certificates
 
-<div align="center">
+<div align="left">
   <a href="https://testprovider.com/ru/search-certificate/TP92727125">
    <img style="width: 25%;" src="https://testprovider.com/ru/certificate/TP92727125"/>
   </a>
