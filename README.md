@@ -20,3 +20,11 @@
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/SupPrivacy_bot/?start)
 
 Glory to Ukraine 🇺🇦
+
+### Certificates
+
+<div align="center">
+  <a href="https://testprovider.com/ru/search-certificate/TP92727125">
+   <img style="width: 25%;" src="https://testprovider.com/ru/certificate/TP92727125"/>
+  </a>
+</div>
