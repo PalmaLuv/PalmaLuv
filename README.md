@@ -23,8 +23,4 @@ Glory to Ukraine 🇺🇦
 
 ### Certificates
 
-<div align="left">
-  <a href="https://testprovider.com/ru/search-certificate/TP92727125">
-   <img style="width: 25%;" src="https://testprovider.com/ru/certificate/TP92727125"/>
-  </a>
-</div>
+To go to the list : ![link](https://github.com/PalmaLuv/PalmaLuv/blob/main/CERTIFICATES.md)
