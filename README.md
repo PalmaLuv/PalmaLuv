@@ -23,4 +23,4 @@ Glory to Ukraine 🇺🇦
 
 ### Certificates
 
-To go to the list : ![link](https://github.com/PalmaLuv/PalmaLuv/blob/main/CERTIFICATES.md)
+To go to the list : **[link](https://github.com/PalmaLuv/PalmaLuv/blob/main/CERTIFICATES.md)**
