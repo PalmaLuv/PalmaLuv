@@ -4,7 +4,9 @@
  Durimg this time, a lot of things have been studied, and I would like to know more. Mush more than I know now. :shipit:
 
 ---
+
 ![](https://www.icegif.com/wp-content/uploads/2022/02/icegif-978.gif)
+
 ---
 
 ### Skills 
